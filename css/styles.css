@@ -1,0 +1,83 @@
+/* Title */
+body {
+  background-color: #e9e4e6;
+  text-align: center;
+}
+
+h3 {
+  line-height: 1.5;
+  padding: 50px 50px 20px;
+}
+
+
+ul, li {
+  list-style-type: none;
+  text-align: center;
+}
+
+.coloured-section {
+  background-color: #17a2b8;
+}
+
+.row {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+
+/* Recent */
+
+.card img {
+  width: 100%;
+}
+
+.poster-col {
+  padding: 3% 2%;
+}
+
+
+/* Genres */
+
+#Genres h3 {
+  color: #e9e4e6;
+}
+
+.genres-link a {
+  text-decoration: none;
+}
+
+.genres-card.card {
+  border-radius: 10%;
+  margin: 50px;
+}
+
+.genres-card ul {
+  padding: 50px;
+}
+
+
+/* Request */
+
+.form-1, .form-2 {
+  padding: 5%;
+}
+
+.form-1 {
+  margin-top: 50px;
+}
+
+.request-form {
+  padding-bottom: 20px;
+}
+
+
+/* Footer */
+
+.credits {
+  padding: 50px;
+}
+
+.credits p {
+  color: #e9e4e6;
+  margin: 0;
+}
